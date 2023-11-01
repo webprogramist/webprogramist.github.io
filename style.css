@@ -1,0 +1,428 @@
+ body { 
+    background: url(rectangle.png);
+    background-size: 10%;
+
+    background-repeat: no-repeat;
+    background-color: rgb(45, 45, 45); 
+}
+
+a {display: table;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin: 0 10px;
+margin-top: 6em;
+margin-left: 2.5em;
+  }
+  .icon{list-style: none;
+    display: table;
+    color: black;
+    font-family: Helvetica;
+  }
+ 
+ 
+ 
+ .insta {position: absolute;
+    font-weight: bolder;
+  right: 1em;
+  top: 2em;
+  cursor: pointer;
+      background-color: transparent;
+      height: 27px;
+      width: 50px;
+      font-size: 1.5em;
+          border-color: black;
+          border-radius: 10px;}
+
+          .twitter {position: absolute;
+            font-weight: bolder;
+          right: 3.5em;
+          top: 2em;
+          cursor: pointer;
+              background-color: transparent;
+              height: 27px;
+              width: 50px;
+              font-size: 1.5em;
+                  border-color: black;
+                  border-radius: 10px;}
+
+ .whatsapp {position: absolute;
+    font-weight: bolder;
+  right: 6em;
+  top: 2em;
+  cursor: pointer;
+      background-color: transparent;
+      height: 27px;
+      width: 50px;
+      font-size: 1.5em;
+          border-color: black;
+          border-radius: 10px;}                
+.text1 {
+    position: absolute;
+        top: 10em;
+        left: 13em;
+    font-size:19px;
+        font-weight: 15px;
+        font-family: 'goudita-serial-extrabold-regular';
+        line-height: 80%;
+        color: #ffffff;
+    }
+    .text2 {
+        position: absolute;
+            top:12em;
+            left: 13em;
+        font-size:19px;
+            font-weight: 15px;
+            font-family: 'goudita-serial-extrabold-regular';
+            line-height: 80%;
+            color: #ffffff;
+        }
+        .logo 
+         {position: absolute;
+                top: 1em;
+                left: 4em;
+            font-size:60px;
+                font-weight: bold;
+                font-family: 'goudita-serial-extrabold-regular';
+                line-height: 80%;
+                color: #ffffff;
+        
+        }
+        .rectangle2 {
+            position: absolute;
+            top: 50em;
+            right: 0.5em;
+            height: 120%;
+            width: 60em;
+     }
+   
+
+    .text1 {
+        border-style: groove;
+        top:10em ;
+        width: 490px;
+        height: 115px;
+        border-top-style: groove; 
+    }
+    .l {
+        position: absolute;
+        top: 50em;
+        left: 20em;
+    }
+
+    .text3 {
+        position: absolute;
+        top:65em ;
+        left: 0.5em;
+        font-family: 'goudita-serial-extrabold-regular';
+        font-size: 15px;
+        color: white;
+    }
+    .free {
+       position: absolute;
+       top:1em ;
+       font-size: 30px;
+       left: 8em;
+       width: 1264px;
+       height: 87px;
+
+    }
+    .fol {
+        position: absolute;
+        top:11em ;
+        font-size: 30px;
+        left: 23em;
+        width: 670px;
+        height: 70px;
+    }
+    .fol1 {
+        position: absolute;
+        top:15em ;
+        font-size: 30px;
+        left: 26em;
+        width: 670px;
+        height: 70px;
+    }
+    .deniro {
+        position: absolute;
+        top: 110em;
+        left: 50em;
+        height: 375px;
+        width: 560px;
+    }
+    .pacino {
+        position: absolute;
+        top: 110em;
+        left: 10em;
+        height: 380px;
+        width:560px ;
+    }
+    .text4 {
+        position: absolute;
+        top: 125em;
+        left: 9em;
+        font-family: 'goudita-serial-extrabold-regular';
+        font-size: large;
+            color:white;
+    }
+    .g {
+        position: absolute;
+        top: 161em;
+        left: 10em;
+
+    }
+    .a {
+        position: absolute;
+        top: 161em;
+        left: 40em;
+    }
+    .c {
+        position: absolute;
+        top: 161em;
+    left: 70em;
+    }
+    .text5 {
+        position: absolute;
+        top: 151.5em;
+        left:12.5em ;
+        color: #ffffff;
+    }
+    .text6 {
+        position: absolute;
+        top: 151.5em;
+        left:42.5em ;
+        color: #ffffff;
+    }
+    .text7 {
+        position: absolute;
+        top: 151.5em;
+        left:72.5em ;
+        color: #ffffff;
+    }
+    .text8 {
+        position: absolute;
+        top: 200em;
+        left: 5em;
+        color: #ffffff;
+    }
+.text9 {
+    position: absolute;
+    top: 195em;
+    left: 38em;
+}
+.c {
+        width: 300px;
+        transition-property: all;
+       
+    }
+    .c:hover:hover {
+        transform: scale(1.2,1.2);
+    
+    }
+    .c {
+        transition: 4s;
+    }
+    .a  {
+    
+        width: 300px;
+    transition-property: all;
+   
+}
+.a:hover:hover {
+    transform: scale(1.2,1.2);
+   
+
+}
+.a {
+    transition: 6s;
+}
+.g 
+ {width: 300px;
+transition-property: all;
+
+}
+.g:hover:hover {
+transform: scale(1.2,1.2);
+
+}
+.g {
+transition: 4s;
+}
+.tel {  
+    position: absolute;
+    top:199em;
+    left: 0em;
+    color: black;
+
+}
+.text10 {
+    position: absolute;
+    top: 200em;
+    left: 2em;
+}
+.mail {  
+    position: absolute;
+    top: 199em;
+    left: 18em;
+    color:black;
+
+}
+.shine-button {
+    text-decoration: none;
+    display: inline-block;
+    padding: 20px 50px;
+    top: -100em;
+    left: 30em;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid #ffffff;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    transition: .2s ease-in-out;
+  }
+  .shine-button:before {
+    content: "";
+    background: linear-gradient(90deg, rgba(255, 255, 255, .1), rgba(255, 255, 255, .5));
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: -8px;
+    left: -75px;
+    transform: skewX(-45deg);
+  }
+  .shine-button:hover {
+    background: #000000;
+    color: #fff;
+  }
+  .shine-button:hover:before {
+    left: 150px;
+    transition: .5s ease-in-out;
+  }
+ 
+ .j {
+    position: absolute;
+    top: 204em;
+    right: 2em;
+ }
+ body {
+    height: 100%;
+
+  }
+  
+  .pht {
+    left: 895px;
+    top: 428px;
+    width: 436px;
+    height: 579px;
+    background: #bfbfbf;
+    position: absolute;
+  }
+  
+  .pht {
+    position: absolute;
+    transform: translateY(-50%);
+    animation-name: Appearance;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(.1,-.6,.2,0);
+  }
+  
+  @-webkit-keyframes Appearance {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  
+  @-o-keyframes Appearance {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  
+  @-moz-keyframes Appearance {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  
+  @keyframes Appearance {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  body {
+    height: 100%;
+  }
+  
+  .photo2 {
+    height: 611px;
+    background: #bfbfbf;
+  }
+  
+  .photo2 {
+    width: 450px;
+    position: absolute;
+    top: 1264px;
+    left: 904px;
+    transform: translateY(-50%);
+    animation-name: Appearance;
+    animation-duration: 4s;
+    animation-timing-function: cubic-bezier(.1,-.6,.2,0);
+  }
+  
+  @-webkit-keyframes Appearance {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  
+  @-o-keyframes Appearance {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  
+  @-moz-keyframes Appearance {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  
+  @keyframes Appearance {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  body {
+    height: 100%;
+
+  }
+  
+  .rectangle3 {
+    left: 6px;
+    top: 3293px;
+    width: 1513px;
+    height: 145px;
+    background: #bfbfbf;
+    position: absolute;
+  }
+  
+   .rectangle3 {
+    position: absolute;
+    transform: translateY(-50%);
+    animation-name: Appearance;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(.1,-.6,.2,0);
+  }
+  
+  @-webkit-keyframes Appearance {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  
+  @-o-keyframes Appearance {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  
+  @-moz-keyframes Appearance {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  
+  @keyframes Appearance {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  }

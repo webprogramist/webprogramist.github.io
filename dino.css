@@ -1,0 +1,60 @@
+body {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: beige;
+    
+}
+.dd {
+    position: absolute;
+    top: 20em;
+    left: 4em;
+    width: 450px;
+    height: 300px;
+}
+.d {
+    position: absolute;
+    top: 20em;
+    left: 35em;
+    width: 450px;
+    height: 300px;
+}
+.ddd {
+    position: absolute;
+    top: 20em;
+    left: 66em;
+    width: 450px;
+    height: 300px;
+}
+.t {
+    position: absolute;
+    top: 40em;
+    left: 35em;
+    color: black;
+    
+}
+.tt {
+    position: absolute;
+    top: 40em;
+    left: 4em;
+    color: black;
+   
+}
+.ttt{
+    position: absolute;
+    top: 40em;
+    left: 66em;
+    color: black;
+}
+.tttt {
+    position: absolute;
+    top: 3em;
+left: 17em;
+color: black;
+}
+.dddd {
+    position: absolute;
+    top: 4em;
+    left: 2em;
+    width: 195px;
+    height: 215px;
+}
