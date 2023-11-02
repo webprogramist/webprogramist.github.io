@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color:white;
     background-size: 100%;
     background-repeat: no-repeat;
     
@@ -126,6 +126,6 @@ body {
                   }
                   .imf {
                     position: absolute;
-                    top: 100px;
+                    top: 150px;
                     left: 1000px;
                   }

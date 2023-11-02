@@ -1,5 +1,5 @@
 body {
-background-color: blanchedalmond;
+background-color: white;
 background-size: 100%;
 background-repeat: no-repeat;
 
@@ -38,7 +38,7 @@ margin-left: 7em;
   top: 2em;
   cursor: pointer;
       background-color: transparent;
-      height: 20px;
+      height: 27px;
       width: 50px;
       font-size: 1.5em;
           border-color: black;
@@ -50,7 +50,7 @@ margin-left: 7em;
           top: 2em;
           cursor: pointer;
               background-color: transparent;
-              height: 20px;
+              height: 27px;
               width: 50px;
               font-size: 1.5em;
                   border-color: black;
@@ -62,7 +62,7 @@ margin-left: 7em;
   top: 2em;
   cursor: pointer;
       background-color: transparent;
-      height: 20px;
+      height: 27px;
       width: 50px;
       font-size: 1.5em;
           border-color: black;
@@ -123,4 +123,9 @@ margin-left: 7em;
               .shine-button:hover:before {
                 left: 150px;
                 transition: .5s ease-in-out;
+              }
+              .imf {
+                position: absolute;
+                top: 100px;
+                left: 1000px;
               }
